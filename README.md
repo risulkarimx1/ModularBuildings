@@ -1,2 +1,2 @@
 # ModularBuildings
-## Project description and source code will be updated soon
+Project description and source code will be updated soon
