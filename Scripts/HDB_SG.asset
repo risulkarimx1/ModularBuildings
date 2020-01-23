@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97d19d4d300de7448afd8fc9c0a3f71, type: 3}
+  m_Name: HDB_SG
+  m_EditorClassIdentifier: 
+  GroundWindowPrefab:
+  - {fileID: 2393602078877799031, guid: 1a554eceec617424fbdb77a9be77987b, type: 3}
+  GroundCornerLeftPrefab:
+  - {fileID: 1468894869271342475, guid: fc071cb801048384c9c68db9c8a43ea6, type: 3}
+  GroundDepthLeftPrefab:
+  - {fileID: 6688111325312391326, guid: 171b475e55f6c754c8ea245051997211, type: 3}
+  GroundGap:
+  - {fileID: 7276940682340400402, guid: a9db998665d552e4fa26d45a13e51486, type: 3}
+  GrounddepthCornerLeftDouble:
+  - {fileID: 6827066102749169538, guid: 80233c5b5846ee74e96ed7fc3abfd870, type: 3}
+  GrounddepthDouble:
+  - {fileID: 7783697493874308833, guid: 8cc7d6e1c858a484cbc0a19f8fa823f6, type: 3}
+  GroundstraightCornerDouble:
+  - {fileID: 5926343815030736550, guid: f9b6239e307712f4181d92e25573b928, type: 3}
+  GroundwindowDouble:
+  - {fileID: 5926343815030736550, guid: f9b6239e307712f4181d92e25573b928, type: 3}
+  GroundfullFacedBlock:
+  - {fileID: 8648348995354218642, guid: c4a6a49a33c5178438f8abf06e94bbae, type: 3}
+  WindowPrefab:
+  - {fileID: 8871493553779838630, guid: 07555a7a7e8901a4093b4943103562b9, type: 3}
+  CornerLeftPrefab:
+  - {fileID: 4272991608392134851, guid: 54964a3f222b6be4db0a6d182d25c9b1, type: 3}
+  DepthLeftPrefab:
+  - {fileID: 4644289746261305372, guid: 34a07f8af43134948a39560c1d2b5084, type: 3}
+  GapPrefab: {fileID: 9145237730260463497, guid: cfc74069bc531b14ca6d7bd69706384f,
+    type: 3}
+  DepthCornerLeftDouble:
+  - {fileID: 7639480820319603044, guid: 3d0041ece07264042aa7f2d81e9f80cf, type: 3}
+  DepthDouble:
+  - {fileID: 8399341517367743588, guid: 9e431a9a5906797449a5c4a84e44bfa7, type: 3}
+  StraightCornerDouble:
+  - {fileID: 1122096380797641314, guid: 67e518fef520b3b4ab835f4099922423, type: 3}
+  WindowDouble:
+  - {fileID: 1604349585441194000, guid: 934ebf9fbeda07940a235d5d165e8386, type: 3}
+  FullFacedBlock:
+  - {fileID: 4851017615050148784, guid: b6cb0b0af9d9b7f4eae451851b643d0f, type: 3}
+  RoofTop:
+  - {fileID: 6516152144415235558, guid: c31b470d10c0d5346880fee214fc7a17, type: 3}
+  GroundGapRooftop:
+  - {fileID: 2534752681825525069, guid: c42291ebace91084c8c5a77f9d67504a, type: 3}
+  RoofCornerLeft:
+  - {fileID: -8111326853505286842, guid: e9587e1250ed2b54a9110cf31fc5b74d, type: 3}
+  RoofFront:
+  - {fileID: 8574461210730044066, guid: 3d20de9c95ee3f04492174f1ba67601d, type: 3}
+  RoofDepthLeft:
+  - {fileID: 8574461210730044066, guid: 4d2ddf855211aea40b647881ce0849a7, type: 3}
+  RoofDepthCornerDoubleLeft:
+  - {fileID: 5890002550702420655, guid: 2eea37e7c9d9a6949bd99b7211fd5eb9, type: 3}
+  RoofDepthDouble:
+  - {fileID: 8512950814509560597, guid: aa94c67f3fb0f694990c7ebb9eecccdd, type: 3}
+  RoofStraightCornerDouble:
+  - {fileID: 8810544725303103608, guid: 1a1e8423dc0530a4997c3cb4dd485adc, type: 3}
+  RoofWindowDouble:
+  - {fileID: 6989747054435761465, guid: 0b1a14fc3a65d1748bf6bfe0406a7696, type: 3}
+  RoofFullBlock:
+  - {fileID: 7826126965696086597, guid: 6860ffdb8d74f70469dab1b15c1b7539, type: 3}
